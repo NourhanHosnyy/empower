@@ -82,7 +82,7 @@ header{
     padding-block: 30px;
 }
 .three-columns  img{
-    width:500px;
+    width:400px;
     height:300px;
     object-fit: cover; 
 }
@@ -96,14 +96,21 @@ header{
     color: #5D8736;
     font-family: 'Poppins', sans-serif;
 }
+.about h3{
+    width:300px;
+}
 .three-columns p{
     color:#809D3C;
     font-family: 'Poppins', sans-serif;
+    width: 300px;
+}
+.three-columns .our{
+    padding-block-start:28px;
 }
 .three-columns button{
     background-color: #5D8736;
     color:#e4f6d2;
-    width: 500px;
+    width: 400px;
     font-family: 'Poppins', sans-serif;
 }
 .two-columns2{
